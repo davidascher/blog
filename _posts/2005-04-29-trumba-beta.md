@@ -4,8 +4,8 @@ title: Trumba beta
 date: 2005-04-29T18:14:31+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/archives/113
-permalink: /?p=113
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

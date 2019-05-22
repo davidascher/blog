@@ -3,8 +3,8 @@ id: 110
 date: 2005-04-20T17:16:03+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=110
-permalink: /?p=110
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

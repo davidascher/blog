@@ -4,8 +4,8 @@ title: 'Another pointer to bivAb&#8217;s art'
 date: 2005-11-21T23:36:48+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2005/11/21/another-pointer-to-bivabs-art/
-permalink: /?p=163
+
+
 tags:
   - ""
 restapi_import_id:

@@ -4,8 +4,8 @@ title: The Curious Incident of the Dog in the Night-Time
 date: 2004-09-20T04:00:00+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=27
-permalink: /?p=27
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

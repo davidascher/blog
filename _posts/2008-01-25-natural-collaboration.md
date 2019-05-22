@@ -4,8 +4,8 @@ title: Natural collaboration
 date: 2008-01-25T17:13:17+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/01/25/natural-collaboration/
-permalink: /?p=381
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

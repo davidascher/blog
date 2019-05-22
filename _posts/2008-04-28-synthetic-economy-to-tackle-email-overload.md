@@ -4,8 +4,8 @@ title: Synthetic economy to tackle email overload
 date: 2008-04-28T15:40:28+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/04/28/synthetic-economy-to-tackle-email-overload/
-permalink: /?p=419
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

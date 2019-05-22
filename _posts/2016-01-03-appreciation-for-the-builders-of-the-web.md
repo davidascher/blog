@@ -4,8 +4,8 @@ title: Appreciation for the builders of the web
 date: 2016-01-03T14:14:29+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/?p=839
-permalink: /?p=839
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

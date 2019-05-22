@@ -4,8 +4,8 @@ title: Science Fair Judging
 date: 2007-04-02T15:04:04+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/04/02/science-fair-judging/
-permalink: /?p=243
+
+
 tags:
   - ""
 restapi_import_id:

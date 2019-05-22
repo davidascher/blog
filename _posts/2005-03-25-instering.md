@@ -4,8 +4,8 @@ title: Instering
 date: 2005-03-25T20:07:40+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=101
-permalink: /?p=101
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

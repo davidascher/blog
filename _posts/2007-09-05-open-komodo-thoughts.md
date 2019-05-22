@@ -4,8 +4,8 @@ title: Open Komodo Thoughts
 date: 2007-09-05T23:21:51+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/09/05/open-komodo-thoughts/
-permalink: /?p=315
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

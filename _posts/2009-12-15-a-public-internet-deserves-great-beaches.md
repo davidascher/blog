@@ -4,8 +4,8 @@ title: A public internet deserves great beaches
 date: 2009-12-15T11:49:09+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=563
-permalink: /?p=563
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

@@ -4,8 +4,8 @@ title: Small Town Silicon Valley
 date: 2007-06-12T22:25:47+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/06/12/small-town-silicon-valley/
-permalink: /?p=293
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

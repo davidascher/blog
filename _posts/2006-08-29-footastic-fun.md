@@ -4,8 +4,8 @@ title: Footastic fun
 date: 2006-08-29T17:20:19+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2006/08/29/footastic-fun/
-permalink: /?p=200
+
+
 tags:
   - foocamp06 unconference
 restapi_import_id:

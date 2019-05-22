@@ -4,8 +4,8 @@ title: Looking for a kick-ass front-end web developer
 date: 2007-06-04T11:59:03+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/06/04/looking-for-a-kick-ass-front-end-web-developer/
-permalink: /?p=285
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

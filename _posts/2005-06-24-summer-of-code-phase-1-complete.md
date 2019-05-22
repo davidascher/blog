@@ -4,8 +4,8 @@ title: 'Summer of Code &#8212; Phase 1, complete'
 date: 2005-06-24T00:10:06+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2005/06/24/summer-of-code-phase-1-complete/
-permalink: /?p=130
+
+
 tags:
   - google summerofcode soc python psf
 restapi_import_id:

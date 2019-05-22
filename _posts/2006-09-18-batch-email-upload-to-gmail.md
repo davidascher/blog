@@ -4,8 +4,8 @@ title: Batch email upload to gmail?
 date: 2006-09-18T11:10:12+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2006/09/18/batch-email-upload-to-gmail/
-permalink: /?p=216
+
+
 tags:
   - ""
 restapi_import_id:

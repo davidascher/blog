@@ -4,8 +4,8 @@ title: Specs, Apple, Photocasting, RSS
 date: 2006-01-18T12:35:41+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2006/01/18/specs-apple-photocasting-rss/
-permalink: /?p=173
+
+
 tags:
   - ""
 restapi_import_id:

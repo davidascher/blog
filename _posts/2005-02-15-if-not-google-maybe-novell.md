@@ -4,8 +4,8 @@ title: If not Google, maybe Novell?
 date: 2005-02-15T15:48:45+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=74
-permalink: /?p=74
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

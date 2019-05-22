@@ -4,8 +4,8 @@ title: 'Faceted email reading: Seek extension, from MIT&#8217;s Simile group'
 date: 2008-03-06T15:06:52+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/03/06/faceted-email-reading-seek-extension-from-mits-simile-group/
-permalink: /?p=396
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

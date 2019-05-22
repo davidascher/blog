@@ -4,8 +4,8 @@ title: Categories out, tags in
 date: 2005-05-31T10:28:42+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2005/05/31/categories-out-tags-in/
-permalink: /?p=125
+
+
 tags:
   - blogging tagging categories wordpress usability technorati tags
 restapi_import_id:

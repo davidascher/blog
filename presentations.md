@@ -4,7 +4,7 @@ title: Presentations
 date: 2008-06-05T12:44:43+00:00
 author: David Ascher
 layout: page
-guid: http://ascher.ca/blog/presentations/
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

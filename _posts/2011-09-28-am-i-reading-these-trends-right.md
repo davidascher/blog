@@ -4,8 +4,8 @@ title: Am I reading these trends right?
 date: 2011-09-28T14:14:11+00:00
 author: David Ascher
 layout: post
-guid: http://blog.ascher.ca/?p=668
-permalink: /?p=668
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

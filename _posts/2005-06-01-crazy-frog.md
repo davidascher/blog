@@ -4,8 +4,8 @@ title: Crazy frog
 date: 2005-06-01T15:59:32+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2005/06/01/crazy-frog/
-permalink: /?p=126
+
+
 tags:
   - crazyfrog flash movie crazy frog music video musicvideo
 restapi_import_id:

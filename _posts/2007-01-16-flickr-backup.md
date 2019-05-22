@@ -4,8 +4,8 @@ title: Flickr backup
 date: 2007-01-16T15:32:31+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/01/16/flickr-backup/
-permalink: /?p=233
+
+
 tags:
   - ""
 restapi_import_id:

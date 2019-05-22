@@ -4,8 +4,8 @@ title: Went skiing w/ the kids last weekend
 date: 2005-12-07T00:53:32+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2005/12/07/went-skiing-w-the-kids-last-weekend/
-permalink: /?p=166
+
+
 tags:
   - ""
 restapi_import_id:

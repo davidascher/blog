@@ -4,8 +4,8 @@ title: Tracking the sleigh
 date: 2007-04-19T17:58:09+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/04/19/tracking-the-sleigh/
-permalink: /?p=256
+
+
 tags:
   - ""
 restapi_import_id:

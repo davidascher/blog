@@ -4,8 +4,8 @@ title: Good marketing
 date: 2005-01-12T11:14:13+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=65
-permalink: /?p=65
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

@@ -4,8 +4,8 @@ title: A new web culture coming to government?
 date: 2008-11-08T10:16:34+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=459
-permalink: /?p=459
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

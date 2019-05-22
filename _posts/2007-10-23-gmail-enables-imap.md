@@ -4,8 +4,8 @@ title: Gmail enables IMAP
 date: 2007-10-23T21:49:32+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/10/23/gmail-enables-imap/
-permalink: /?p=350
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

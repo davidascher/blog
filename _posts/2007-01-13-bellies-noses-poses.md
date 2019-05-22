@@ -4,8 +4,8 @@ title: 'Bellies &#038; Noses &#038; Poses'
 date: 2007-01-13T23:17:09+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/01/13/bellies-noses-poses/
-permalink: /?p=230
+
+
 tags:
   - ""
 restapi_import_id:

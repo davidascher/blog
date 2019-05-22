@@ -4,8 +4,8 @@ title: San Francisco in Jello
 date: 2005-10-24T09:34:21+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2005/10/24/san-francisco-in-jello/
-permalink: /?p=148
+
+
 tags:
   - ""
 restapi_import_id:

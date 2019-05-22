@@ -4,8 +4,8 @@ title: 'Jon Udell&#8217;s demos'
 date: 2004-11-15T16:12:16+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=47
-permalink: /?p=47
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

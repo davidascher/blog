@@ -4,8 +4,8 @@ title: Maturation of the hosting provider market
 date: 2010-10-04T21:47:04+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=577
-permalink: /?p=577
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

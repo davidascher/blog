@@ -4,8 +4,8 @@ title: Cheap Eats
 date: 2005-11-07T21:56:52+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2005/07/04/cheap-eats/
-permalink: /?p=132
+
+
 tags:
   - ""
 restapi_import_id:

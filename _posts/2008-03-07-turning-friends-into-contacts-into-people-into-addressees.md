@@ -4,8 +4,8 @@ title: 'Turning friends into contacts into people into addressees&#8230;'
 date: 2008-03-07T10:23:03+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/03/07/turning-friends-into-contacts-into-people-into-addressees/
-permalink: /?p=397
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

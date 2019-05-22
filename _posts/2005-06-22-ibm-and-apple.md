@@ -4,8 +4,8 @@ title: IBM and Apple
 date: 2005-06-22T22:55:15+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2005/06/22/ibm-and-apple/
-permalink: /?p=129
+
+
 tags:
   - ibm apple powerbook appple domainnames
 restapi_import_id:

@@ -4,8 +4,8 @@ title: 'Heads-up: SuperHappyDevHouse coming up'
 date: 2007-04-02T17:01:10+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/04/02/heads-up-superhappydevhouse-coming-up/
-permalink: /?p=244
+
+
 tags:
   - ""
 restapi_import_id:

@@ -4,8 +4,8 @@ title: Blog moved
 date: 2011-04-12T11:16:31+00:00
 author: David Ascher
 layout: post
-guid: http://blog.ascher.ca/?p=653
-permalink: /?p=653
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

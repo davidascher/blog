@@ -5,8 +5,8 @@ date: 2005-03-07T23:47:03+00:00
 author: David Ascher
 excerpt: 'In which I wax hypothetical on what comes <em>after</em> the Web 2.0 programming model.'
 layout: post
-guid: http://ascher.ca/blog/?p=85
-permalink: /?p=85
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

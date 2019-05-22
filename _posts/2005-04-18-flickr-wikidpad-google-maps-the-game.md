@@ -4,8 +4,8 @@ title: Flickr, wikidpad, google maps, the game
 date: 2005-04-18T21:35:07+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=106
-permalink: /?p=106
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

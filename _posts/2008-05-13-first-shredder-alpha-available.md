@@ -4,8 +4,8 @@ title: First Shredder alpha available!
 date: 2008-05-13T22:36:51+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/05/13/first-shredder-alpha-available/
-permalink: /?p=427
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

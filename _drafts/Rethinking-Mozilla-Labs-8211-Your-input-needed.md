@@ -4,8 +4,8 @@ title: 'Rethinking Mozilla Labs &#8211; Your input needed'
 date: 2012-01-18T12:57:14+00:00
 author: David Ascher
 layout: post
-guid: http://blog.ascher.ca/?p=706
-permalink: /?p=706
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

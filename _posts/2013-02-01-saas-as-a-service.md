@@ -4,8 +4,8 @@ title: SaaS as a Service?
 date: 2013-02-01T16:08:47+00:00
 author: David Ascher
 layout: post
-guid: http://blog.ascher.ca/?p=738
-permalink: /?p=738
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

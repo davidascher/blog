@@ -4,8 +4,8 @@ title: Experimenting with home page
 date: 2007-01-06T09:52:10+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/01/06/experimenting-with-home-page/
-permalink: /?p=228
+
+
 tags:
   - ""
 restapi_import_id:

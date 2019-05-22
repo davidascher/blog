@@ -4,8 +4,8 @@ title: 'Two &#8220;new&#8221; kinds of blog spam: apologetic and plagiaristic'
 date: 2005-05-19T09:45:50+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2005/05/19/two-new-kinds-of-blog-spam-apologetic-and-plagiaristic/
-permalink: /?p=118
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

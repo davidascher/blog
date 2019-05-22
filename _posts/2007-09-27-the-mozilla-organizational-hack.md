@@ -4,8 +4,8 @@ title: The Mozilla Organizational Hack
 date: 2007-09-27T01:01:50+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/09/27/the-mozilla-organizational-hack/
-permalink: /?p=334
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

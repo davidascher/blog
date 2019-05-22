@@ -4,8 +4,8 @@ title: Keyboard replacement policies
 date: 2006-11-09T23:26:15+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2006/11/09/keyboard-replacement-policies/
-permalink: /?p=219
+
+
 tags:
   - ""
 restapi_import_id:

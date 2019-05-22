@@ -4,8 +4,8 @@ title: Google, privacy, subpoena, statistics
 date: 2006-01-19T15:05:43+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2006/01/19/google-privacy-subpoena-statistics/
-permalink: /?p=175
+
+
 tags:
   - ""
 restapi_import_id:

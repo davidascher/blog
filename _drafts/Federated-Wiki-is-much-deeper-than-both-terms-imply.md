@@ -4,8 +4,8 @@ title: Federated Wiki is much deeper than both terms imply
 date: 2013-02-03T13:02:35+00:00
 author: David Ascher
 layout: post
-guid: http://blog.ascher.ca/?p=748
-permalink: /?p=748
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

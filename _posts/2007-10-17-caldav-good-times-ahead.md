@@ -4,8 +4,8 @@ title: CalDAV good times ahead?
 date: 2007-10-17T17:00:31+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/10/17/caldav-good-times-ahead/
-permalink: /?p=343
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

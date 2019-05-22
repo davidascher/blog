@@ -4,8 +4,8 @@ title: Calling icon designers!
 date: 2005-07-13T11:58:02+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2005/07/13/calling-icon-designers/
-permalink: /?p=134
+
+
 tags:
   - icon design contract job
 restapi_import_id:

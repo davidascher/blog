@@ -4,8 +4,8 @@ title: Product Thinking
 date: 2014-03-04T16:09:19+00:00
 author: David Ascher
 layout: post
-guid: http://blog.ascher.ca/?p=814
-permalink: /?p=814
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

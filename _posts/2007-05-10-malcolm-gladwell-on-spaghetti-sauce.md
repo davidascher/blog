@@ -4,8 +4,8 @@ title: Malcolm Gladwell on Spaghetti Sauce.
 date: 2007-05-10T16:47:09+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/05/10/malcolm-gladwell-on-spaghetti-sauce/
-permalink: /?p=276
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

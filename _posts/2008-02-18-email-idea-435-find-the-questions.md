@@ -4,8 +4,8 @@ title: 'Email idea #435: find-the-questions'
 date: 2008-02-18T17:49:13+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/02/18/email-idea-435-find-the-questions/
-permalink: /?p=391
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

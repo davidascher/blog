@@ -4,8 +4,8 @@ title: Organizational Deployments, AKA enterprise users
 date: 2008-01-04T12:21:31+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/01/04/organizational-deployments-aka-enterprise-users/
-permalink: /?p=373
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

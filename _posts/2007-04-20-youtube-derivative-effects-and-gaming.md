@@ -4,8 +4,8 @@ title: YouTube derivative effects and gaming
 date: 2007-04-20T10:49:22+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/04/20/youtube-derivative-effects-and-gaming/
-permalink: /?p=262
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

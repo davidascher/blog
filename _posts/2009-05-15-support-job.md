@@ -4,8 +4,8 @@ title: Support job with Mozilla Messaging
 date: 2009-05-15T15:33:35+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=511
-permalink: /?p=511
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

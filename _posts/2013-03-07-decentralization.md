@@ -4,8 +4,8 @@ title: 'Personal computing in a decentralized world: a hopeful direction'
 date: 2013-03-07T14:17:15+00:00
 author: David Ascher
 layout: post
-guid: http://blog.ascher.ca/?p=784
-permalink: /?p=784
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

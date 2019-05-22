@@ -4,8 +4,8 @@ title: Not Technologism, Alchemy.
 date: 2015-05-25T15:50:15+00:00
 author: David Ascher
 layout: post
-guid: http://blog.ascher.ca/?p=830
-permalink: /?p=830
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

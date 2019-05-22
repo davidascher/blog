@@ -4,8 +4,8 @@ title: 'A big project just started&#8230;'
 date: 2006-06-03T12:33:51+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2006/06/03/a-big-project-just-started/
-permalink: /?p=189
+
+
 tags:
   - gambier airstream
 restapi_import_id:

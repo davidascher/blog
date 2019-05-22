@@ -4,8 +4,8 @@ title: Low-vision theme for Thunderbird?
 date: 2008-08-06T11:44:17+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/08/06/low-vision-theme-for-thunderbird/
-permalink: /?p=450
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

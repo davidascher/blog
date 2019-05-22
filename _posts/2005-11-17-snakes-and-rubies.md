@@ -4,8 +4,8 @@ title: Snakes and Rubies!
 date: 2005-11-17T14:12:52+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2005/11/17/snakes-and-rubies/
-permalink: /?p=160
+
+
 tags:
   - rails ruby django python webdev
 restapi_import_id:

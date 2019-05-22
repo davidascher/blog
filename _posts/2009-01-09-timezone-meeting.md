@@ -4,8 +4,8 @@ title: Timezone meeting
 date: 2009-01-09T12:08:04+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=476
-permalink: /?p=476
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

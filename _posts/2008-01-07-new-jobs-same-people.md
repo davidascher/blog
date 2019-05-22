@@ -4,8 +4,8 @@ title: New jobs, same people
 date: 2008-01-07T18:57:32+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/01/07/new-jobs-same-people/
-permalink: /?p=376
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

@@ -4,8 +4,8 @@ title: Weather widgets
 date: 2006-01-25T13:16:46+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2006/01/25/weather-widgets/
-permalink: /?p=181
+
+
 tags:
   - ""
 restapi_import_id:

@@ -4,8 +4,8 @@ title: Open source peer-to-peer transportation systems
 date: 2007-11-16T08:53:05+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/11/16/open-source-peer-to-peer-transportation-systems/
-permalink: /?p=361
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

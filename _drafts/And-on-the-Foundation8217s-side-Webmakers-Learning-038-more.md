@@ -4,8 +4,8 @@ title: 'And on the Foundation&#8217;s side: Webmakers, Learning &#038; more'
 date: 2012-01-25T13:11:11+00:00
 author: David Ascher
 layout: post
-guid: http://blog.ascher.ca/?p=708
-permalink: /?p=708
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

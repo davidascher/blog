@@ -4,8 +4,8 @@ title: 'Is it possible to use the &#8220;direct GPRS&#8221; connection to talk t
 date: 2007-09-13T10:35:19+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/09/13/is-it-possible-to-use-the-direct-gprs-connection-to-talk-to-the-net-on-fidoca/
-permalink: /?p=326
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

@@ -4,8 +4,8 @@ title: Amazon EC2 account!
 date: 2007-04-02T18:49:54+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/04/02/amazon-ec2-account/
-permalink: /?p=248
+
+
 tags:
   - ""
 restapi_import_id:

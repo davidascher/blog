@@ -4,8 +4,8 @@ title: Who do we need to build and promote an open internet?
 date: 2008-07-10T23:39:05+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/07/10/who-do-we-need-to-build-and-promote-an-open-internet/
-permalink: /?p=447
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

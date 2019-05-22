@@ -4,8 +4,8 @@ title: 'Sometimes an add-on is transformative&#8230;'
 date: 2010-12-07T09:57:13+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=584
-permalink: /?p=584
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

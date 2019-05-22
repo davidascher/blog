@@ -4,8 +4,8 @@ title: Naming alphas
 date: 2008-05-03T13:35:07+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/05/03/naming-alphas/
-permalink: /?p=421
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

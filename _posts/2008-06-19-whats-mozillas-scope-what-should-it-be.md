@@ -4,8 +4,8 @@ title: 'What&#8217;s Mozilla&#8217;s scope?  What should it be?'
 date: 2008-06-19T16:41:57+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/06/19/whats-mozillas-scope-what-should-it-be/
-permalink: /?p=440
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

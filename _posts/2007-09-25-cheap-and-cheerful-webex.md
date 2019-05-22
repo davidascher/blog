@@ -4,8 +4,8 @@ title: Cheap and cheerful Webex?
 date: 2007-09-25T07:51:43+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/09/25/cheap-and-cheerful-webex/
-permalink: /?p=331
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

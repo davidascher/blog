@@ -4,8 +4,8 @@ title: Ext JS Packaging script
 date: 2007-04-06T17:34:02+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/04/06/ext-js-packaging-script/
-permalink: /?p=250
+
+
 tags:
   - ""
 restapi_import_id:

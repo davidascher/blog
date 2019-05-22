@@ -4,8 +4,8 @@ title: Documentaries are great
 date: 2005-01-12T11:31:55+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=66
-permalink: /?p=66
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

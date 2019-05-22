@@ -4,8 +4,8 @@ title: 'Urge and Quicktime: Separated at birth?'
 date: 2006-01-05T21:35:18+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2006/01/05/urge-and-quicktime-separated-at-birth/
-permalink: /?p=171
+
+
 tags:
   - ""
 restapi_import_id:

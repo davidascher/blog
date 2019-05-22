@@ -4,8 +4,8 @@ title: Sun developer hardware program, part III
 date: 2006-01-26T10:48:26+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2006/01/26/sun-developer-hardware-program-part-iii/
-permalink: /?p=183
+
+
 tags:
   - ""
 restapi_import_id:

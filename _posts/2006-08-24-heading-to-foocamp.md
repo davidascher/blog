@@ -4,8 +4,8 @@ title: heading to foocamp!
 date: 2006-08-24T09:23:11+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2006/08/24/heading-to-foocamp/
-permalink: /?p=199
+
+
 tags:
   - foocamp06
 restapi_import_id:

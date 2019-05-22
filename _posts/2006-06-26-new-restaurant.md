@@ -4,8 +4,8 @@ title: 'New restaurant&#8230;'
 date: 2006-06-26T15:58:13+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2006/06/26/new-restaurant/
-permalink: /?p=191
+
+
 tags:
   - ""
 restapi_import_id:

@@ -4,8 +4,8 @@ title: A Facebook Story
 date: 2007-08-17T16:00:35+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/08/17/a-facebook-story/
-permalink: /?p=310
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

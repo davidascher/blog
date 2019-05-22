@@ -4,8 +4,8 @@ title: Think Schools, Think Email?
 date: 2008-04-07T11:35:18+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/04/07/think-schools-think-email/
-permalink: /?p=410
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

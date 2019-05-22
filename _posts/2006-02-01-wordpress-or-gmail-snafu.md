@@ -4,8 +4,8 @@ title: WordPress or Gmail snafu
 date: 2006-02-01T09:23:36+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2006/02/01/wordpress-or-gmail-snafu/
-permalink: /?p=185
+
+
 tags:
   - ""
 restapi_import_id:

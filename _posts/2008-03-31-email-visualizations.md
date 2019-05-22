@@ -4,8 +4,8 @@ title: Email Visualizations
 date: 2008-03-31T09:51:18+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/03/31/email-visualizations/
-permalink: /?p=402
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

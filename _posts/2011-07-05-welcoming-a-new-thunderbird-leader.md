@@ -4,8 +4,8 @@ title: Welcoming a new Thunderbird Leader
 date: 2011-07-05T06:24:42+00:00
 author: David Ascher
 layout: post
-guid: http://blog.ascher.ca/?p=657
-permalink: /?p=657
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

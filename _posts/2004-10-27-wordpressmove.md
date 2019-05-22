@@ -10,8 +10,8 @@ excerpt: |
   
   New features for all you readers: comments are back, the RSS feeds are nicer (e.g. they have dates, which the old one didn't, which is why all of the old posts that were imported neatly don't have any history of when they were posted -- oh well).  I'm sure there'll be more as I figure this tool out.<strong></strong>
 layout: post
-guid: http://ascher.ca/blog/?p=34
-permalink: /?p=34
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

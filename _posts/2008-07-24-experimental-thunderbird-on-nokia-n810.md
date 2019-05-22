@@ -4,8 +4,8 @@ title: Experimental Thunderbird on Nokia N810
 date: 2008-07-24T20:12:34+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/07/24/experimental-thunderbird-on-nokia-n810/
-permalink: /?p=449
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

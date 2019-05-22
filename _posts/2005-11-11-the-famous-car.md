@@ -4,8 +4,8 @@ title: The famous car
 date: 2005-11-11T19:19:02+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2005/11/11/the-famous-car/
-permalink: /?p=156
+
+
 tags:
   - ""
 restapi_import_id:

@@ -4,8 +4,8 @@ title: Feedback needed on a cool future thunderbird feature
 date: 2010-04-03T14:53:09+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2010/04/03/feedback-needed-on-a-cool-future-thunderbird-feature/
-permalink: /?p=573
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

@@ -4,8 +4,8 @@ title: 'Ikea Canada: WTF?'
 date: 2010-02-09T11:47:28+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=569
-permalink: /?p=569
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

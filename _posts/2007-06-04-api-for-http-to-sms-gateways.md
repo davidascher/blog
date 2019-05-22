@@ -4,8 +4,8 @@ title: API for HTTP to SMS gateways?
 date: 2007-06-04T17:24:41+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/06/04/api-for-http-to-sms-gateways/
-permalink: /?p=287
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

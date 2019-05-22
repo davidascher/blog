@@ -4,8 +4,8 @@ title: 'I had no idea&#8230;'
 date: 2005-09-13T15:57:40+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2005/09/13/i-had-no-idea/
-permalink: /?p=139
+
+
 tags:
   - penguins creationism politics intelligentdesign
 restapi_import_id:

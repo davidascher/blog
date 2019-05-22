@@ -4,8 +4,8 @@ title: 'NYTs TimesSelect: couldn&#8217;t have said it better'
 date: 2005-09-19T13:16:46+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2005/09/19/nyts-timesselect-couldnt-have-said-it-better/
-permalink: /?p=140
+
+
 tags:
   - nytimes nyt news timesselect
 restapi_import_id:

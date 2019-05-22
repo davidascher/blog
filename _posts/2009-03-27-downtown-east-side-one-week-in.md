@@ -4,8 +4,8 @@ title: 'Downtown East Side: one week in'
 date: 2009-03-27T15:46:57+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=500
-permalink: /?p=500
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

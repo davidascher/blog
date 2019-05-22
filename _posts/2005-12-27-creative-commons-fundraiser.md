@@ -4,8 +4,8 @@ title: Creative Commons fundraiser
 date: 2005-12-27T20:36:37+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2005/12/27/creative-commons-fundraiser/
-permalink: /?p=170
+
+
 tags:
   - ""
 restapi_import_id:

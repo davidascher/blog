@@ -4,8 +4,8 @@ title: 'Productivity boost with feeddemon &#038; bloglines'
 date: 2005-05-18T12:42:01+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2005/05/18/productivity-boost-with-feeddemon-bloglines/
-permalink: /?p=117
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

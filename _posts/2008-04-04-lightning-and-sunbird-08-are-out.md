@@ -4,8 +4,8 @@ title: Lightning and Sunbird 0.8 are out
 date: 2008-04-04T16:37:40+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/04/04/lightning-and-sunbird-08-are-out/
-permalink: /?p=407
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

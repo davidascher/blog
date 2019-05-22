@@ -4,8 +4,8 @@ title: 'Vancouver Schools: Bad Planning'
 date: 2008-01-21T14:42:13+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/01/21/vancouver-schools-bad-planning/
-permalink: /?p=379
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

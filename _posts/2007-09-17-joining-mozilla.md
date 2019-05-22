@@ -4,8 +4,8 @@ title: Joining Mozilla
 date: 2007-09-17T19:52:46+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/09/17/joining-mozilla/
-permalink: /?p=327
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

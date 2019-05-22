@@ -4,8 +4,8 @@ title: You knew the old Mozilla, meet the new Mozilla
 date: 2011-12-19T20:05:05+00:00
 author: David Ascher
 layout: post
-guid: http://blog.ascher.ca/?p=672
-permalink: /?p=672
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

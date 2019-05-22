@@ -4,8 +4,8 @@ title: Aurora Borealis Alert Service anyone?
 date: 2006-12-16T00:57:23+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2006/12/16/aurora-borealis-alert-service-anyone/
-permalink: /?p=224
+
+
 tags:
   - ""
 restapi_import_id:

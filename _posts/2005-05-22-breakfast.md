@@ -4,8 +4,8 @@ title: Breakfast
 date: 2005-05-22T11:22:15+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2005/05/22/breakfast/
-permalink: /?p=120
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

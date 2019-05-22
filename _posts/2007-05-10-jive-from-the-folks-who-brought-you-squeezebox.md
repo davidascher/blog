@@ -4,8 +4,8 @@ title: Jive, from the folks who brought you Squeezebox
 date: 2007-05-10T23:26:02+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/05/10/jive-from-the-folks-who-brought-you-squeezebox/
-permalink: /?p=277
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

@@ -4,8 +4,8 @@ title: 'Twitter use case #1!'
 date: 2007-04-19T12:53:33+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/04/19/twitter-use-case-1/
-permalink: /?p=253
+
+
 tags:
   - ""
 restapi_import_id:

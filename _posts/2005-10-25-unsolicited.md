@@ -4,8 +4,8 @@ title: Unsolicited
 date: 2005-10-25T10:16:38+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2005/10/25/unsolicited/
-permalink: /?p=149
+
+
 tags:
   - ""
 restapi_import_id:

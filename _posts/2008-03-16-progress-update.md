@@ -4,8 +4,8 @@ title: Progress Update
 date: 2008-03-16T15:14:24+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/03/16/progress-update/
-permalink: /?p=400
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

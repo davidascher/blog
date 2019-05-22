@@ -4,8 +4,8 @@ title: New forums are ready!
 date: 2007-10-22T14:09:51+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/10/22/new-forums-are-ready/
-permalink: /?p=348
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

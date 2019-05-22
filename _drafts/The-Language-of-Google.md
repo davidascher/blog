@@ -4,8 +4,8 @@ title: The Language of Google
 date: 2013-05-15T11:23:20+00:00
 author: David Ascher
 layout: post
-guid: http://blog.ascher.ca/?p=806
-permalink: /?p=806
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

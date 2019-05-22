@@ -4,8 +4,8 @@ title: 'Yahoo! and Google&#8217;s approaches to good deeds'
 date: 2006-11-17T09:18:02+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2006/11/17/yahoo-and-googles-approaches-to-good-deeds/
-permalink: /?p=221
+
+
 tags:
   - ""
 restapi_import_id:

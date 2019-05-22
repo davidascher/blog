@@ -4,8 +4,8 @@ title: 'An update on Thunderbird&#8217;s support plan, Get Satisfaction and SUMO
 date: 2009-10-19T12:37:06+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=538
-permalink: /?p=540
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

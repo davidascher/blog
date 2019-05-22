@@ -4,8 +4,8 @@ title: Thunderbird in 2010
 date: 2010-02-10T14:50:39+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=571
-permalink: /?p=571
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

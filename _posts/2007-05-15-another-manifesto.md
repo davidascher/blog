@@ -4,8 +4,8 @@ title: Another Manifesto
 date: 2007-05-15T14:56:57+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/05/15/another-manifesto/
-permalink: /?p=279
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

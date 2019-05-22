@@ -4,8 +4,8 @@ title: Thunderbird and Institutional users
 date: 2007-11-20T17:00:01+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/11/20/thunderbird-and-institutional-users/
-permalink: /?p=362
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

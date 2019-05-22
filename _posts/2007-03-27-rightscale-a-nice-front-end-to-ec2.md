@@ -4,8 +4,8 @@ title: Rightscale, a nice front-end to EC2
 date: 2007-03-27T14:23:02+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/03/27/rightscale-a-nice-front-end-to-ec2/
-permalink: /?p=240
+
+
 tags:
   - ""
 restapi_import_id:

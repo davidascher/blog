@@ -4,8 +4,8 @@ title: 'SOGo: Thunderbird-inspired and Thunderbird-compatible Groupware'
 date: 2007-11-28T16:07:56+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/11/28/sogo-thunderbird-inspired-and-thunderbird-compatible-groupware/
-permalink: /?p=367
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

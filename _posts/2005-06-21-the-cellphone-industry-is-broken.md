@@ -4,8 +4,8 @@ title: The cellphone industry is broken
 date: 2005-06-21T11:44:18+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2005/06/21/the-cellphone-industry-is-broken/
-permalink: /?p=128
+
+
 tags:
   - cellphone nokia series60 lazyweb telus
 restapi_import_id:

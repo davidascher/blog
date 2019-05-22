@@ -4,8 +4,8 @@ title: Cross-border telephony
 date: 2008-02-28T12:09:47+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/02/28/cross-border-telephony/
-permalink: /?p=394
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

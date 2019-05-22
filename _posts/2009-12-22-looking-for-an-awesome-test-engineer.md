@@ -4,8 +4,8 @@ title: Looking for an awesome test engineer
 date: 2009-12-22T17:29:30+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=565
-permalink: /?p=565
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

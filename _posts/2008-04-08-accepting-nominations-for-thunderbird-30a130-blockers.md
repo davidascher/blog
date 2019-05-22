@@ -4,8 +4,8 @@ title: Accepting Nominations for Thunderbird 3.0a1/3.0 blockers
 date: 2008-04-08T13:12:09+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/04/08/accepting-nominations-for-thunderbird-30a130-blockers/
-permalink: /?p=412
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

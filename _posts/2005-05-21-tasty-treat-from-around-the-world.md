@@ -4,8 +4,8 @@ title: 'New treat: maamoul date cakes'
 date: 2005-05-21T13:47:08+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2005/05/21/tasty-treat-from-around-the-world/
-permalink: /?p=119
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

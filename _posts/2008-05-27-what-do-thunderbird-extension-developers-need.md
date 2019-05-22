@@ -4,8 +4,8 @@ title: What do Thunderbird extension developers need?
 date: 2008-05-27T16:48:42+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/05/27/what-do-thunderbird-extension-developers-need/
-permalink: /?p=436
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

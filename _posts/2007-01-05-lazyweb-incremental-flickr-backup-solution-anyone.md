@@ -4,8 +4,8 @@ title: 'Lazyweb: Incremental Flickr Backup Solution Anyone?'
 date: 2007-01-05T11:42:19+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/01/05/lazyweb-incremental-flickr-backup-solution-anyone/
-permalink: /?p=226
+
+
 tags:
   - ""
 restapi_import_id:

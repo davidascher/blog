@@ -4,8 +4,8 @@ title: 'Thunderbird/Calendar drinks &#038; food'
 date: 2008-01-31T16:12:29+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/01/31/thunderbirdcalendar-drinks-food/
-permalink: /?p=387
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

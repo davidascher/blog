@@ -4,8 +4,8 @@ title: Features of Atom over RSS
 date: 2004-11-02T14:34:16+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=44
-permalink: /?p=44
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

@@ -4,8 +4,8 @@ title: 'Thunderbird is PC World&#8217;s 43rd best product in 2008'
 date: 2008-05-27T15:36:30+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/05/27/thunderbird-is-pc-worlds-43rd-best-product-in-2008/
-permalink: /?p=435
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

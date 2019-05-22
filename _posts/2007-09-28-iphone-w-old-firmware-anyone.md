@@ -4,8 +4,8 @@ title: iPhone w/ old firmware anyone?
 date: 2007-09-28T17:10:29+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/09/28/iphone-w-old-firmware-anyone/
-permalink: /?p=336
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

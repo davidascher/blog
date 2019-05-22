@@ -4,8 +4,8 @@ title: 'Design tools for the open web: reflections on the fixoutlook campaign'
 date: 2009-06-24T23:57:10+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=533
-permalink: /?p=533
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

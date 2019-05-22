@@ -4,8 +4,8 @@ title: Misc software recommendations
 date: 2007-09-11T22:40:18+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/09/11/misc-software-recommendations/
-permalink: /?p=322
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

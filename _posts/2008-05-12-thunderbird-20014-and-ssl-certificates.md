@@ -4,8 +4,8 @@ title: Thunderbird 2.0.0.14 and SSL certificates
 date: 2008-05-12T18:03:28+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/05/12/thunderbird-20014-and-ssl-certificates/
-permalink: /?p=425
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

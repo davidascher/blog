@@ -4,8 +4,8 @@ title: You are more than your job title
 date: 2013-05-17T11:02:24+00:00
 author: David Ascher
 layout: post
-guid: http://blog.ascher.ca/?p=807
-permalink: /?p=807
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

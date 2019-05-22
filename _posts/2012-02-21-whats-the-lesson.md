@@ -4,8 +4,8 @@ title: 'What&#8217;s the lesson?'
 date: 2012-02-21T20:30:09+00:00
 author: David Ascher
 layout: post
-guid: http://blog.ascher.ca/?p=710
-permalink: /?p=710
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

@@ -4,8 +4,8 @@ title: 'Ning: maybe not what they had in mind'
 date: 2005-10-18T11:41:29+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2005/10/18/ning-maybe-not-what-they-had-in-mind/
-permalink: /?p=144
+
+
 tags:
   - ""
 restapi_import_id:

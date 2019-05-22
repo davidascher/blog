@@ -4,8 +4,8 @@ title: Positive Energy for Change, for a Change
 date: 2009-02-25T12:17:00+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=487
-permalink: /?p=487
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

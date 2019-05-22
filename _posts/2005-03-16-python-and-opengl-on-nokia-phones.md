@@ -4,8 +4,8 @@ title: Python and OpenGL on Nokia Phones
 date: 2005-03-16T16:00:11+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=98
-permalink: /?p=98
+
+
 enclosure:
   - |
     http://www.ascher.ca/images/P1050038.MOV

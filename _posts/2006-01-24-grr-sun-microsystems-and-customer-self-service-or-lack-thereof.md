@@ -4,8 +4,8 @@ title: 'Grr. Sun Microsystems and customer self-service, or lack thereof&#8230;'
 date: 2006-01-24T18:17:40+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2006/01/24/grr-sun-microsystems-and-customer-self-service-or-lack-thereof/
-permalink: /?p=180
+
+
 tags:
   - ""
 restapi_import_id:

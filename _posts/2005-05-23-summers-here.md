@@ -4,8 +4,8 @@ title: 'Summer&#8217;s here!'
 date: 2005-05-23T19:59:12+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2005/05/23/summers-here/
-permalink: /?p=121
+
+
 tags:
   - food
 restapi_import_id:

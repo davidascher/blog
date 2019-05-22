@@ -4,8 +4,8 @@ title: Changing names?
 date: 2005-11-23T11:27:25+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2005/11/23/changing-names/
-permalink: /?p=164
+
+
 tags:
   - flickr names massage humor
 restapi_import_id:

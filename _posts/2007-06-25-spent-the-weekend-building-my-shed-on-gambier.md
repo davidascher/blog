@@ -4,8 +4,8 @@ title: 'Spent the weekend building my shed on Gambier&#8230;'
 date: 2007-06-25T10:51:31+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/06/25/spent-the-weekend-building-my-shed-on-gambier/
-permalink: /?p=299
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

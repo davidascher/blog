@@ -4,8 +4,8 @@ title: Interesting visualization
 date: 2005-11-11T14:34:23+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2005/11/11/interesting-visualization/
-permalink: /?p=155
+
+
 tags:
   - newsmedia visualization tree graph zoom
 restapi_import_id:

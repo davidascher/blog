@@ -4,8 +4,8 @@ title: Thunderbird-friendly SOGo reached 1.0
 date: 2009-03-20T16:07:35+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=496
-permalink: /?p=496
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

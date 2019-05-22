@@ -4,8 +4,8 @@ title: 'Privacy: the new global warming?'
 date: 2007-12-11T16:00:50+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/12/11/privacy-the-new-global-warming/
-permalink: /?p=369
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

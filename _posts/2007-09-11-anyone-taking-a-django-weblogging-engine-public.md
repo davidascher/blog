@@ -4,8 +4,8 @@ title: Anyone taking a Django weblogging engine public?
 date: 2007-09-11T21:32:57+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/09/11/anyone-taking-a-django-weblogging-engine-public/
-permalink: /?p=320
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

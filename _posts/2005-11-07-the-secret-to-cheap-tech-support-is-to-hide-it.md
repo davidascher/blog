@@ -4,8 +4,8 @@ title: 'The secret to cheap tech support is to hide it&#8230;'
 date: 2005-11-07T21:56:45+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2005/11/07/the-secret-to-cheap-tech-support-is-to-hide-it/
-permalink: /?p=153
+
+
 tags:
   - dell techsupport
 restapi_import_id:

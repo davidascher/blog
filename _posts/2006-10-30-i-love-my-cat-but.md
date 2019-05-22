@@ -4,8 +4,8 @@ title: 'I love my cat, but&#8230;'
 date: 2006-10-30T17:00:03+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2006/10/30/i-love-my-cat-but/
-permalink: /?p=217
+
+
 tags:
   - ""
 restapi_import_id:

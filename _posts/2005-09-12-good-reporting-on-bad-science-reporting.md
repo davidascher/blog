@@ -4,8 +4,8 @@ title: Good reporting on bad science reporting
 date: 2005-09-12T10:51:27+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2005/09/12/good-reporting-on-bad-science-reporting/
-permalink: /?p=138
+
+
 tags:
   - science reporting journalism
 restapi_import_id:

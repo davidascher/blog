@@ -4,8 +4,8 @@ title: Fundraising in the new age
 date: 2006-01-06T12:18:43+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2006/01/06/fundraising-in-the-new-age/
-permalink: /?p=172
+
+
 tags:
   - ""
 restapi_import_id:

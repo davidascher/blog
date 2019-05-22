@@ -4,7 +4,7 @@ title: Sample Page
 date: 2019-05-22T20:51:16+00:00
 author: da
 layout: page
-guid: http://127.0.0.1:8000/?page_id=2
+
 ---
 This is an example page. It&#8217;s different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
 

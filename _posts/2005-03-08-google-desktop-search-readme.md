@@ -4,8 +4,8 @@ title: 'Google Desktop Search &#8220;readme&#8221;'
 date: 2005-03-08T15:41:11+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=91
-permalink: /?p=91
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

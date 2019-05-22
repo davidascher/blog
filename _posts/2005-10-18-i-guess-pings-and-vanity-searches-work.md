@@ -4,8 +4,8 @@ title: I guess pings and vanity searches work!
 date: 2005-10-18T15:07:03+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2005/10/18/i-guess-pings-and-vanity-searches-work/
-permalink: /?p=145
+
+
 tags:
   - ""
 restapi_import_id:

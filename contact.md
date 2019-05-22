@@ -5,7 +5,7 @@ date: 2016-07-09T01:35:01+00:00
 author: David Ascher
 excerpt: 'This is just a short excerpt for the contact&nbsp;page.'
 layout: page
-guid: https://daimport.wordpress.com/?page_id=3
+
 sharing_disabled:
   - 'a:1:{i:0;i:1;}'
 switch_like_status:

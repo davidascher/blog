@@ -4,8 +4,8 @@ title: Linux smoketesters needed
 date: 2008-07-01T12:07:27+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/07/01/linux-smoketesters-needed/
-permalink: /?p=446
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

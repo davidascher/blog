@@ -4,8 +4,8 @@ title: Quick notes
 date: 2007-11-09T17:15:39+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/11/09/quick-notes/
-permalink: /?p=358
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

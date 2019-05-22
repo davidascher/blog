@@ -4,8 +4,8 @@ title: Hardware failures
 date: 2005-03-25T20:44:53+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=102
-permalink: /?p=102
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

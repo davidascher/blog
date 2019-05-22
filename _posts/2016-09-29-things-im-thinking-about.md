@@ -4,8 +4,8 @@ title: 'Things I&#8217;m thinking about'
 date: 2016-09-29T16:58:50+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/?p=871
-permalink: /?p=871
+
+
 image: /wp-content/uploads/2016/09/squamish-1568x1046.jpg
 categories:
   - Uncategorized

@@ -4,8 +4,8 @@ title: Mice everywhere
 date: 2008-04-27T08:40:41+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/04/27/mice-everywhere/
-permalink: /?p=418
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

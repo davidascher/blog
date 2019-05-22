@@ -4,8 +4,8 @@ title: 'Django: ooh, shiny&#8230;.'
 date: 2005-11-15T23:34:48+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2005/11/15/django-ooh-shiny/
-permalink: /?p=158
+
+
 tags:
   - django
 restapi_import_id:

@@ -4,8 +4,8 @@ title: 'The tide has turned on land use, but we haven&#8217;t adjusted yet.'
 date: 2014-07-25T01:27:49+00:00
 author: David Ascher
 layout: post
-guid: http://blog.ascher.ca/?p=825
-permalink: /?p=825
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

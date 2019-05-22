@@ -4,8 +4,8 @@ title: Thunderbird team needs help from Python/Perl build engineer
 date: 2008-05-02T17:07:30+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/05/02/thunderbird-team-needs-help-from-pythonperl-build-assist/
-permalink: /?p=420
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

@@ -4,8 +4,8 @@ title: 'Don&#8217;t believe everything you hear&#8230;'
 date: 2006-11-03T08:43:35+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2006/11/03/dont-believe-everything-you-hear/
-permalink: /?p=218
+
+
 tags:
   - ""
 restapi_import_id:

@@ -4,8 +4,8 @@ title: Thunderbird Quality Project, one year in
 date: 2009-03-24T14:31:37+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=498
-permalink: /?p=498
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

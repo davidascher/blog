@@ -4,8 +4,8 @@ title: flickr backup tool
 date: 2007-04-02T11:20:41+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/04/02/flickr-backup-tool/
-permalink: /?p=242
+
+
 tags:
   - ""
   - ""

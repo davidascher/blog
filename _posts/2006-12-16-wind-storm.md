@@ -4,8 +4,8 @@ title: 'Wind storm&#8230;'
 date: 2006-12-16T15:01:40+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2006/12/16/wind-storm/
-permalink: /?p=225
+
+
 tags:
   - ""
 restapi_import_id:

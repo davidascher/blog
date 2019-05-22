@@ -4,8 +4,8 @@ title: Update on support
 date: 2009-08-31T12:17:11+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=536
-permalink: /?p=536
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

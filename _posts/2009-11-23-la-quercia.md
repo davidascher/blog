@@ -4,8 +4,8 @@ title: La Quercia
 date: 2009-11-23T12:50:50+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=559
-permalink: /?p=559
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

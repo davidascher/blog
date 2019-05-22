@@ -4,8 +4,8 @@ title: 'Sun &#038; Dynamic Languages'
 date: 2004-12-08T17:24:27+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=61
-permalink: /?p=61
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

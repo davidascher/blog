@@ -4,8 +4,8 @@ title: MozCamp in Vancouver
 date: 2008-04-07T12:08:34+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/04/07/mozcamp-in-vancouver/
-permalink: /?p=411
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

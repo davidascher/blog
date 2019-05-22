@@ -4,8 +4,8 @@ title: Building compelling, engaging brands, in previously boring markets
 date: 2008-06-20T16:07:03+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/06/20/building-compelling-engaging-brands-in-previously-boring-markets/
-permalink: /?p=441
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

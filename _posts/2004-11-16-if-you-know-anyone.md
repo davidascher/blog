@@ -4,8 +4,8 @@ title: 'If you know anyone&#8230;'
 date: 2004-11-16T22:46:19+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=49
-permalink: /?p=49
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

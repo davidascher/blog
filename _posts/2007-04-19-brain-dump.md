@@ -4,8 +4,8 @@ title: Brain dump
 date: 2007-04-19T12:45:04+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/04/19/brain-dump/
-permalink: /?p=252
+
+
 tags:
   - ""
   - ""

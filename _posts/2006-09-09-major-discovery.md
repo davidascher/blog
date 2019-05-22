@@ -4,8 +4,8 @@ title: major discovery
 date: 2006-09-09T10:22:27+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2006/09/09/major-discovery/
-permalink: /?p=215
+
+
 tags:
   - ""
 restapi_import_id:

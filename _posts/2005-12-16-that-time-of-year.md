@@ -4,8 +4,8 @@ title: 'that time of year&#8230;'
 date: 2005-12-16T14:29:54+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2005/12/16/that-time-of-year/
-permalink: /?p=167
+
+
 tags:
   - ""
 restapi_import_id:

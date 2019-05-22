@@ -4,8 +4,8 @@ title: Google Summer of Code
 date: 2005-05-31T11:08:13+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2005/05/31/google-summer-of-code/
-permalink: /?p=124
+
+
 tags:
   - google summerofcode internship opensource python psf
 restapi_import_id:

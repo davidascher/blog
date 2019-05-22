@@ -4,8 +4,8 @@ title: Hardware failure again
 date: 2005-10-25T12:34:03+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2005/10/25/hardware-failure-again/
-permalink: /?p=151
+
+
 tags:
   - ""
 restapi_import_id:

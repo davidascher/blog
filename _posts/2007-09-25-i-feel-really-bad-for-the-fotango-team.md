@@ -4,8 +4,8 @@ title: I feel really bad for the Fotango team
 date: 2007-09-25T07:48:03+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/09/25/i-feel-really-bad-for-the-fotango-team/
-permalink: /?p=330
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

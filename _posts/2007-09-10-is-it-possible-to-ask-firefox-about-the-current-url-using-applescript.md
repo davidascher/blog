@@ -4,8 +4,8 @@ title: Is it possible to ask Firefox about the current URL using AppleScript?
 date: 2007-09-10T16:42:25+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/09/10/is-it-possible-to-ask-firefox-about-the-current-url-using-applescript/
-permalink: /?p=318
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

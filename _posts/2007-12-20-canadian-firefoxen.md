@@ -4,8 +4,8 @@ title: Canadian Firefoxen
 date: 2007-12-20T10:46:59+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/12/20/canadian-firefoxen/
-permalink: /?p=370
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

@@ -4,8 +4,8 @@ title: Think City / Think Schools
 date: 2008-04-03T16:40:14+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/04/03/think-city-think-schools/
-permalink: /?p=405
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

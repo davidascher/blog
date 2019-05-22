@@ -4,8 +4,8 @@ title: Email client to the stars
 date: 2008-03-12T10:14:02+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/03/12/email-client-to-the-stars/
-permalink: /?p=399
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

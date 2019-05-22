@@ -4,8 +4,8 @@ title: 'Tim O&#8217;Reilly on the future web wars'
 date: 2009-11-16T18:55:57+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=552
-permalink: /?p=552
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

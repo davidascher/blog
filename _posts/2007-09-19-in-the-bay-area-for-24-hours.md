@@ -4,8 +4,8 @@ title: In the Bay Area for 24 hours
 date: 2007-09-19T00:39:31+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/09/19/in-the-bay-area-for-24-hours/
-permalink: /?p=329
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

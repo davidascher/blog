@@ -4,8 +4,8 @@ title: Travel update
 date: 2008-04-07T09:42:13+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/04/07/travel-update/
-permalink: /?p=408
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

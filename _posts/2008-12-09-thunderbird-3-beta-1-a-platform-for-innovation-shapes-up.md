@@ -4,8 +4,8 @@ title: 'Thunderbird 3 beta 1 &#8211; a platform for innovation shapes up'
 date: 2008-12-09T10:02:21+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=469
-permalink: /?p=469
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

@@ -4,8 +4,8 @@ title: Outlook PST importer anyone?
 date: 2010-05-26T11:11:34+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=575
-permalink: /?p=575
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

@@ -4,8 +4,8 @@ title: Vancouver 1, Toronto 0
 date: 2008-04-02T14:50:52+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/04/02/vancouver-1-toronto-0-2/
-permalink: /?p=404
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

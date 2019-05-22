@@ -4,8 +4,8 @@ title: Politics explained through photography
 date: 2006-06-13T21:12:07+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2006/06/13/politics-explained-through-photography/
-permalink: /?p=190
+
+
 tags:
   - ""
 restapi_import_id:

@@ -4,8 +4,8 @@ title: We need Thunderbird t-shirts!
 date: 2008-12-04T18:27:33+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=461
-permalink: /?p=461
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

@@ -4,8 +4,8 @@ title: Why are you looking at me like that?
 date: 2006-03-17T00:19:59+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2006/03/17/why-are-you-looking-at-me-like-that/
-permalink: /?p=188
+
+
 tags:
   - ""
 restapi_import_id:

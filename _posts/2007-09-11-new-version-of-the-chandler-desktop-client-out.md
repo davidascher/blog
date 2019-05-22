@@ -4,8 +4,8 @@ title: New version of the Chandler Desktop client out!
 date: 2007-09-11T21:38:40+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/09/11/new-version-of-the-chandler-desktop-client-out/
-permalink: /?p=321
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

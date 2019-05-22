@@ -4,8 +4,8 @@ title: 'A visual gauge of app &#8216;maturity&#8217;'
 date: 2012-10-24T14:32:04+00:00
 author: David Ascher
 layout: post
-guid: http://blog.ascher.ca/?p=735
-permalink: /?p=735
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

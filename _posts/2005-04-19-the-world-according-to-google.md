@@ -4,8 +4,8 @@ title: The World According to Google
 date: 2005-04-19T10:42:23+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=108
-permalink: /?p=108
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

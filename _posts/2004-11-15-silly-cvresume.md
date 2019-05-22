@@ -4,8 +4,8 @@ title: Silly CV/resume
 date: 2004-11-15T17:01:52+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=48
-permalink: /?p=48
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

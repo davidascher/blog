@@ -4,8 +4,8 @@ title: Looking for some superlative Python Talks for OSCON
 date: 2007-04-25T09:50:02+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/04/25/looking-for-some-superlative-python-talks-for-oscon/
-permalink: /?p=265
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

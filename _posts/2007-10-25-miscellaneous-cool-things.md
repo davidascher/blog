@@ -4,8 +4,8 @@ title: Miscellaneous Cool Things
 date: 2007-10-25T17:17:29+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/10/25/miscellaneous-cool-things/
-permalink: /?p=353
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

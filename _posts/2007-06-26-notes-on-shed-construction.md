@@ -4,8 +4,8 @@ title: Notes on shed construction
 date: 2007-06-26T00:49:06+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/06/26/notes-on-shed-construction/
-permalink: /?p=302
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

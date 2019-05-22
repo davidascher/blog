@@ -4,8 +4,8 @@ title: Gearing up
 date: 2008-08-19T18:52:39+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/08/19/gearing-up/
-permalink: /?p=451
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

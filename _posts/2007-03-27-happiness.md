@@ -4,8 +4,8 @@ title: Happiness
 date: 2007-03-27T11:40:31+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/03/27/happiness/
-permalink: /?p=239
+
+
 tags:
   - ""
 restapi_import_id:

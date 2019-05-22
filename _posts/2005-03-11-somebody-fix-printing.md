@@ -4,8 +4,8 @@ title: Somebody fix printing!
 date: 2005-03-11T17:25:07+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=97
-permalink: /?p=97
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

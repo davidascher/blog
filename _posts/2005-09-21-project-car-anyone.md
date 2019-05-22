@@ -4,8 +4,8 @@ title: Project car anyone?
 date: 2005-09-21T16:08:23+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2005/09/21/project-car-anyone/
-permalink: /?p=141
+
+
 tags:
   - car diy auto
 restapi_import_id:

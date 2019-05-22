@@ -4,8 +4,8 @@ title: Timezone helper?
 date: 2007-10-24T15:30:30+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/10/24/timezone-helper/
-permalink: /?p=352
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

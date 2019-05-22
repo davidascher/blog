@@ -4,8 +4,8 @@ title: Intelligent Design?
 date: 2005-09-10T19:30:51+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2005/09/10/intelligent-design/
-permalink: /?p=137
+
+
 tags:
   - evolution intelligent design movie penguins
 restapi_import_id:

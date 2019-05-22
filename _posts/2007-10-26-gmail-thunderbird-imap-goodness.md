@@ -4,8 +4,8 @@ title: 'Gmail &#038; Thunderbird IMAP Goodness'
 date: 2007-10-26T16:55:39+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/10/26/gmail-thunderbird-imap-goodness/
-permalink: /?p=354
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

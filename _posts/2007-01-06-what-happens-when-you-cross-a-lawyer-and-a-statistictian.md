@@ -4,8 +4,8 @@ title: What happens when you cross a lawyer and a statistictian?
 date: 2007-01-06T13:55:29+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/01/06/what-happens-when-you-cross-a-lawyer-and-a-statistictian/
-permalink: /?p=229
+
+
 tags:
   - ""
 restapi_import_id:

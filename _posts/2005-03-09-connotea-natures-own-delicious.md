@@ -4,8 +4,8 @@ title: 'Connotea: del.icio.us for scientists'
 date: 2005-03-09T01:31:01+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=94
-permalink: /?p=94
+
+
 enclosure:
   - |
     http://thestranger.com/audio/jefferson_starbucks.mp3

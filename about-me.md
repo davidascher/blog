@@ -4,7 +4,7 @@ title: About Me
 date: 2007-04-19T23:49:50+00:00
 author: David Ascher
 layout: page
-guid: http://ascher.ca/blog/about-me/
+
 tags:
   - ""
   - ""

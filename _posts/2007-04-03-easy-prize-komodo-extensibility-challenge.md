@@ -4,8 +4,8 @@ title: 'Easy Prize: Komodo Extensibility Challenge'
 date: 2007-04-03T11:24:35+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/04/03/easy-prize-komodo-extensibility-challenge/
-permalink: /?p=249
+
+
 tags:
   - ""
 restapi_import_id:

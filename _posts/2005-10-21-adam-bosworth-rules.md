@@ -4,8 +4,8 @@ title: Adam Bosworth rules
 date: 2005-10-21T10:48:20+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2005/10/21/adam-bosworth-rules/
-permalink: /?p=147
+
+
 tags:
   - google rationality
   - 'google rationality '

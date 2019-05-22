@@ -4,8 +4,8 @@ title: Dopplr and language choice
 date: 2007-09-11T23:10:18+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/09/11/dopplr-and-language-choice/
-permalink: /?p=323
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

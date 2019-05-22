@@ -4,8 +4,8 @@ title: 'Fido&#8217;s Hiptop mistake: not one I should have to deal with'
 date: 2007-05-30T15:44:17+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/05/30/fidos-hiptop-mistake-not-one-i-should-have-to-deal-with/
-permalink: /?p=283
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

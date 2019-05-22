@@ -4,8 +4,8 @@ title: Information Overload
 date: 2007-01-16T15:08:09+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/01/16/information-overload/
-permalink: /?p=232
+
+
 tags:
   - ""
 restapi_import_id:

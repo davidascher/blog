@@ -4,8 +4,8 @@ title: Twitter Thoughts
 date: 2008-05-23T12:39:57+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/05/23/twitter-thoughts/
-permalink: /?p=433
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

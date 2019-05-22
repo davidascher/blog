@@ -4,8 +4,8 @@ title: Craigslist to the rescue!
 date: 2006-08-19T11:22:29+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2006/08/19/craigslist-to-the-rescue/
-permalink: /?p=198
+
+
 tags:
   - ""
 restapi_import_id:

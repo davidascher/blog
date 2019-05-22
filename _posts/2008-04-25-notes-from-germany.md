@@ -4,8 +4,8 @@ title: Notes from Germany
 date: 2008-04-25T16:44:15+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/04/25/notes-from-germany/
-permalink: /?p=417
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

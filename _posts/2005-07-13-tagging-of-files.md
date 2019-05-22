@@ -4,8 +4,8 @@ title: Tagging of files
 date: 2005-07-13T11:41:38+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2005/07/13/tagging-of-files/
-permalink: /?p=133
+
+
 tags:
   - tagging filesystem hack
 restapi_import_id:

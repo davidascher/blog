@@ -4,8 +4,8 @@ title: Google and suggested combination searches
 date: 2005-10-19T17:05:02+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2005/10/19/google-and-suggested-combination-searches/
-permalink: /?p=146
+
+
 tags:
   - google search
 restapi_import_id:

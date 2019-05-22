@@ -4,8 +4,8 @@ title: Out of context
 date: 2007-06-06T13:53:24+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/06/06/out-of-context/
-permalink: /?p=290
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

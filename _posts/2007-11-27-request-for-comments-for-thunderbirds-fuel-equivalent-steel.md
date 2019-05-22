@@ -4,8 +4,8 @@ title: 'Request for Comments for Thunderbird&#8217;s FUEL equivalent, STEEL'
 date: 2007-11-27T11:32:31+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/11/27/request-for-comments-for-thunderbirds-fuel-equivalent-steel/
-permalink: /?p=365
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

@@ -4,8 +4,8 @@ title: Marten Mickos on Oracle
 date: 2006-02-15T08:21:49+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2006/02/15/marten-mickos-on-oracle/
-permalink: /?p=187
+
+
 tags:
   - ""
 restapi_import_id:

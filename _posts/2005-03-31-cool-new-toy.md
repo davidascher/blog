@@ -4,8 +4,8 @@ title: Cool new toy
 date: 2005-03-31T18:58:10+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=105
-permalink: /?p=105
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

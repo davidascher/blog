@@ -4,8 +4,8 @@ title: 'Webdev &#038; Add-on jobs @ Mozilla Messaging'
 date: 2010-01-07T21:17:12+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=567
-permalink: /?p=567
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

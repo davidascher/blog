@@ -4,8 +4,8 @@ title: 'Business and open source&#8230;'
 date: 2009-11-30T12:49:16+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=561
-permalink: /?p=561
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

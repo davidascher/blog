@@ -4,8 +4,8 @@ title: 'Hamburg: Thunderbird, Calendar, Accessibility, CouchDB?'
 date: 2008-04-21T08:54:31+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/04/21/hamburg-thunderbird-calendar-accessibility-couchdb/
-permalink: /?p=416
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

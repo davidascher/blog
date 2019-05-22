@@ -4,8 +4,8 @@ title: 'Thoughts on Thunderbird&#8217;s Evolution'
 date: 2008-01-03T17:55:16+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/01/03/thoughts-on-thunderbirds-evolution/
-permalink: /?p=372
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

@@ -4,8 +4,8 @@ title: Canadian thieves
 date: 2007-01-05T17:09:14+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/01/05/canadian-thieves/
-permalink: /?p=227
+
+
 tags:
   - ""
 restapi_import_id:

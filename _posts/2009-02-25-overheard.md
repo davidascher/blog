@@ -4,8 +4,8 @@ title: overheard
 date: 2009-02-25T12:55:07+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=489
-permalink: /?p=489
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

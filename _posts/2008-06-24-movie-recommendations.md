@@ -4,8 +4,8 @@ title: Movie recommendations
 date: 2008-06-24T23:16:25+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/06/24/movie-recommendations/
-permalink: /?p=443
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

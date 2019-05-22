@@ -4,8 +4,8 @@ title: FOSSCoach, OSCON
 date: 2008-06-23T23:06:30+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/06/23/fosscoach-oscon/
-permalink: /?p=442
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

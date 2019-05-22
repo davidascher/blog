@@ -4,8 +4,8 @@ title: Photography as metaphor
 date: 2013-02-03T17:20:12+00:00
 author: David Ascher
 layout: post
-guid: http://blog.ascher.ca/?p=743
-permalink: /?p=743
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

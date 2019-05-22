@@ -4,8 +4,8 @@ title: Mail.app as competition or inspiration?
 date: 2007-10-17T16:43:03+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/10/17/mailapp-as-competition-or-inspiration/
-permalink: /?p=342
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

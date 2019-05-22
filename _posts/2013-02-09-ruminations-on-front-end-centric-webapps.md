@@ -4,8 +4,8 @@ title: Ruminations on front end-centric webapps
 date: 2013-02-09T16:08:19+00:00
 author: David Ascher
 layout: post
-guid: http://blog.ascher.ca/?p=773
-permalink: /?p=773
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

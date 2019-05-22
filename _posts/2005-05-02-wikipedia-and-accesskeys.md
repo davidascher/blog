@@ -4,8 +4,8 @@ title: Wikipedia and accesskeys
 date: 2005-05-02T14:30:45+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/archives/114
-permalink: /?p=114
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

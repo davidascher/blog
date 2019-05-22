@@ -4,8 +4,8 @@ title: Real estate prices, plotted on a roller coaster ride
 date: 2007-04-19T15:43:16+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/04/19/real-estate-prices-plotted-on-a-roller-coaster-ride/
-permalink: /?p=254
+
+
 tags:
   - ""
 restapi_import_id:

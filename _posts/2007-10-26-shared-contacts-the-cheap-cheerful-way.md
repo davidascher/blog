@@ -4,8 +4,8 @@ title: 'Shared contacts, the cheap &#038; cheerful way'
 date: 2007-10-26T17:22:19+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/10/26/shared-contacts-the-cheap-cheerful-way/
-permalink: /?p=355
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

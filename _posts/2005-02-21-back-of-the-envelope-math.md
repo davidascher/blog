@@ -4,8 +4,8 @@ title: Back of the envelope math
 date: 2005-02-21T23:16:29+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=81
-permalink: /?p=81
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

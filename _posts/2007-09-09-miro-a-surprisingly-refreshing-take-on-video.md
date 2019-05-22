@@ -4,8 +4,8 @@ title: 'Miro &#8212; a surprisingly refreshing take on video'
 date: 2007-09-09T11:56:28+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/09/09/miro-a-surprisingly-refreshing-take-on-video/
-permalink: /?p=316
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

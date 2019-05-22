@@ -4,8 +4,8 @@ title: Mozilla Messaging
 date: 2008-02-19T01:00:45+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/02/19/mozilla-messaging-2/
-permalink: /?p=393
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

@@ -4,8 +4,8 @@ title: I _will_ blog more.
 date: 2012-07-05T09:06:43+00:00
 author: David Ascher
 layout: post
-guid: http://blog.ascher.ca/?p=718
-permalink: /?p=718
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

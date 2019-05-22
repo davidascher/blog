@@ -4,8 +4,8 @@ title: 'It&#8217;s Friday: Goofy but fascinating Thunderbird Add-ons day'
 date: 2008-12-12T13:50:15+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=474
-permalink: /?p=474
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

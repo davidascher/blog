@@ -4,8 +4,8 @@ title: Vancouver Python Conference
 date: 2006-06-26T16:06:49+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2006/06/26/vancouver-python-conference/
-permalink: /?p=192
+
+
 tags:
   - ""
 restapi_import_id:

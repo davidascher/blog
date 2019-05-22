@@ -4,8 +4,8 @@ title: 'Simple analogies as taglines are dangerous: do better'
 date: 2013-03-05T20:12:43+00:00
 author: David Ascher
 layout: post
-guid: http://blog.ascher.ca/?p=778
-permalink: /?p=778
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

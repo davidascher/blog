@@ -4,8 +4,8 @@ title: Thoughts on Precipitation and Education
 date: 2006-01-19T11:05:52+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2006/01/19/thoughts-on-precipitation-and-education/
-permalink: /?p=174
+
+
 tags:
   - ""
 restapi_import_id:

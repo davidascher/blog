@@ -4,8 +4,8 @@ title: Young guns
 date: 2005-04-26T14:20:44+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=112
-permalink: /?p=112
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

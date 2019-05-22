@@ -4,8 +4,8 @@ title: 'Lily: JavaScript, visual programming, fun'
 date: 2008-01-22T17:58:14+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/01/22/lily-javascript-visual-programming-fun/
-permalink: /?p=380
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

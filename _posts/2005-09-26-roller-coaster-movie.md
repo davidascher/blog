@@ -4,8 +4,8 @@ title: Roller Coaster Movie!
 date: 2005-09-26T17:08:20+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2005/09/26/roller-coaster-movie/
-permalink: /?p=142
+
+
 tags:
   - ""
   - ""

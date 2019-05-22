@@ -4,8 +4,8 @@ title: Too many eponymous people, not enough paragraphs
 date: 2005-11-29T00:03:05+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2005/11/29/too-many-people-on-the-web/
-permalink: /?p=165
+
+
 tags:
   - highschool livejournal
 restapi_import_id:

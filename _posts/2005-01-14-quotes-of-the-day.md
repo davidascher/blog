@@ -4,8 +4,8 @@ title: Cal Henderson Quotes
 date: 2005-01-14T16:22:50+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=67
-permalink: /?p=67
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

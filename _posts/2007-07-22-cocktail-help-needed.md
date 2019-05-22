@@ -4,8 +4,8 @@ title: Cocktail help needed
 date: 2007-07-22T16:56:28+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/07/22/cocktail-help-needed/
-permalink: /?p=305
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

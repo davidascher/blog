@@ -4,8 +4,8 @@ title: Great Thunderbird Survey
 date: 2007-11-20T17:25:30+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/11/20/great-thunderbird-survey/
-permalink: /?p=364
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

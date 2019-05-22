@@ -4,8 +4,8 @@ title: Apache, redirect old RSS feed?
 date: 2004-10-28T14:42:36+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=37
-permalink: /?p=37
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

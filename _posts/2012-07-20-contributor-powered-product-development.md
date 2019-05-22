@@ -4,8 +4,8 @@ title: Volunteer-powered product development?
 date: 2012-07-20T13:01:56+00:00
 author: David Ascher
 layout: post
-guid: http://blog.ascher.ca/?p=722
-permalink: /?p=722
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

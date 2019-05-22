@@ -4,8 +4,8 @@ title: Story telling as a webmaking task
 date: 2012-06-18T14:53:19+00:00
 author: David Ascher
 layout: post
-guid: http://blog.ascher.ca/?p=715
-permalink: /?p=715
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

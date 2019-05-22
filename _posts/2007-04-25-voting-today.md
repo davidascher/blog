@@ -4,8 +4,8 @@ title: Voting today!
 date: 2007-04-25T08:36:01+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/04/25/voting-today/
-permalink: /?p=264
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

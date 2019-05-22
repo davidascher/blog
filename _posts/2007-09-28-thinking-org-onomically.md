@@ -4,8 +4,8 @@ title: Thinking org-onomically
 date: 2007-09-28T00:22:50+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/09/28/thinking-org-onomically/
-permalink: /?p=335
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

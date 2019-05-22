@@ -4,8 +4,8 @@ title: 'Clay Shirky on &#8220;Situated Software&#8221;'
 date: 2004-09-20T04:00:00+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=31
-permalink: /?p=31
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

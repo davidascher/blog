@@ -4,8 +4,8 @@ title: 'CouchDB + IBM => Apache'
 date: 2008-01-15T18:03:41+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/01/15/couchdb-ibm-apache/
-permalink: /?p=377
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

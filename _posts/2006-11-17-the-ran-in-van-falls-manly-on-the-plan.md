@@ -4,8 +4,8 @@ title: The ran in van. falls manly on the plan
 date: 2006-11-17T15:44:34+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2006/11/17/the-ran-in-van-falls-manly-on-the-plan/
-permalink: /?p=222
+
+
 tags:
   - ""
 restapi_import_id:

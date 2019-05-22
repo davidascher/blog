@@ -4,8 +4,8 @@ title: Dojo offline toolkit
 date: 2007-01-16T17:17:57+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/01/16/dojo-offline-toolkit/
-permalink: /?p=234
+
+
 tags:
   - ""
 restapi_import_id:

@@ -4,8 +4,8 @@ title: 'One Good Turn: A Natural History of the Screwdriver and the Screw'
 date: 2004-09-20T04:00:00+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=24
-permalink: /?p=24
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

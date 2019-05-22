@@ -4,8 +4,8 @@ title: Emailology
 date: 2008-01-28T18:08:37+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/01/28/emailology/
-permalink: /?p=383
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

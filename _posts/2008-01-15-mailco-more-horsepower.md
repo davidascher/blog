@@ -4,8 +4,8 @@ title: 'MailCo: More horsepower!'
 date: 2008-01-15T18:04:01+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/01/15/mailco-more-horsepower/
-permalink: /?p=378
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

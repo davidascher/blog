@@ -4,8 +4,8 @@ title: Thunderbird gets Buggy Eyed
 date: 2008-04-07T10:06:42+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/04/07/thunderbird-gets-buggy-eyed/
-permalink: /?p=409
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

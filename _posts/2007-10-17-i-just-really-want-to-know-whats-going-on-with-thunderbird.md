@@ -4,8 +4,8 @@ title: '&#8220;I just really want to know what’s going on with Thunderbird&#82
 date: 2007-10-17T22:23:38+00:00
 author: David Ascher
 layout: post
-guid: 'http://ascher.ca/blog/2007/10/17/i-just-really-want-to-know-what%e2%80%99s-going-on-with-thunderbird/'
-permalink: /?p=344
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

@@ -4,8 +4,8 @@ title: Gateway drug for Thunderbird devs
 date: 2008-01-04T13:13:42+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/01/04/gateway-drug-for-thunderbird-devs/
-permalink: /?p=374
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

@@ -4,8 +4,8 @@ title: MacFUSE and sshfs great even with no UI
 date: 2007-06-25T17:09:19+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/06/25/macfuse-and-sshfs-great-even-with-no-ui/
-permalink: /?p=301
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

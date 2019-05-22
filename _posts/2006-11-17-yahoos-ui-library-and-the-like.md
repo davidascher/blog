@@ -4,8 +4,8 @@ title: 'Yahoo&#8217;s UI library and the like'
 date: 2006-11-17T15:44:48+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2006/11/17/yahoos-ui-library-and-the-like/
-permalink: /?p=223
+
+
 tags:
   - ""
 restapi_import_id:

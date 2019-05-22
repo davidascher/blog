@@ -4,8 +4,8 @@ title: Travel plans
 date: 2008-01-29T15:27:20+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/01/29/travel-plans-3/
-permalink: /?p=384
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

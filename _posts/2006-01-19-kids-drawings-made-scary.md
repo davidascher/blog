@@ -4,8 +4,8 @@ title: Kids drawings made scary
 date: 2006-01-19T17:47:39+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2006/01/19/kids-drawings-made-scary/
-permalink: /?p=177
+
+
 tags:
   - ""
 restapi_import_id:

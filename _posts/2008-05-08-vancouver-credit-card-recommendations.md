@@ -4,8 +4,8 @@ title: Vancouver Credit card recommendations?
 date: 2008-05-08T18:44:38+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/05/08/vancouver-credit-card-recommendations/
-permalink: /?p=422
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

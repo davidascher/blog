@@ -4,8 +4,8 @@ title: Open Source, Open Standards, Open Data, Open Vancouver
 date: 2009-05-15T17:06:17+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=520
-permalink: /?p=520
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

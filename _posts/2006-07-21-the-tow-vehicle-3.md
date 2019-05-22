@@ -4,8 +4,8 @@ title: 'The &#8220;tow vehicle&#8221;'
 date: 2006-07-21T22:48:16+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2006/07/21/the-tow-vehicle-3/
-permalink: /?p=196
+
+
 tags:
   - ""
 restapi_import_id:

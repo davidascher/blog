@@ -4,8 +4,8 @@ title: University of Toronto Student Projects
 date: 2008-05-13T23:04:51+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/05/13/university-of-toronto-student-projects/
-permalink: /?p=428
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

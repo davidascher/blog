@@ -4,8 +4,8 @@ title: Free books
 date: 2007-04-16T15:39:55+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/04/16/free-books/
-permalink: /?p=251
+
+
 tags:
   - ""
 restapi_import_id:

@@ -4,8 +4,8 @@ title: 'DOM Scripting: on the to-buy list'
 date: 2007-04-26T16:25:26+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/04/26/dom-scripting-on-the-to-buy-list/
-permalink: /?p=268
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

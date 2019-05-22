@@ -4,8 +4,8 @@ title: Coalesce Bloglines feeds?
 date: 2005-03-04T11:29:35+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=90
-permalink: /?p=90
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

@@ -4,8 +4,8 @@ title: Stephen Walli essay on IP
 date: 2005-01-25T12:30:15+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=71
-permalink: /?p=71
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

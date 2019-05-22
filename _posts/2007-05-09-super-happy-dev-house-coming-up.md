@@ -4,8 +4,8 @@ title: Super Happy Dev House coming up
 date: 2007-05-09T15:58:52+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/05/09/super-happy-dev-house-coming-up/
-permalink: /?p=275
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

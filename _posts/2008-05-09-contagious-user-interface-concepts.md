@@ -4,8 +4,8 @@ title: Contagious user interface concepts
 date: 2008-05-09T09:30:15+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2008/05/09/contagious-user-interface-concepts/
-permalink: /?p=423
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

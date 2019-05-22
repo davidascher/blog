@@ -4,8 +4,8 @@ title: Upcoming trip to Paris
 date: 2007-10-24T12:26:14+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/10/24/upcoming-trip-to-paris/
-permalink: /?p=351
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

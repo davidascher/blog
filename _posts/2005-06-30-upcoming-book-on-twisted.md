@@ -4,8 +4,8 @@ title: Upcoming book on twisted
 date: 2005-06-30T14:21:15+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2005/06/30/upcoming-book-on-twisted/
-permalink: /?p=131
+
+
 tags:
   - ""
 restapi_import_id:

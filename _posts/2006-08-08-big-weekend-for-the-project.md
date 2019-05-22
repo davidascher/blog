@@ -4,8 +4,8 @@ title: 'Big weekend for The Project&#8230;'
 date: 2006-08-08T22:06:21+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2006/08/08/big-weekend-for-the-project/
-permalink: /?p=197
+
+
 tags:
   - ""
 restapi_import_id:

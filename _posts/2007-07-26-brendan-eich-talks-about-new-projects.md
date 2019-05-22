@@ -4,8 +4,8 @@ title: Brendan Eich talks about new projects
 date: 2007-07-26T11:54:29+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/07/26/brendan-eich-talks-about-new-projects/
-permalink: /?p=306
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

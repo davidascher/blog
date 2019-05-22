@@ -4,8 +4,8 @@ title: Wood framing porn
 date: 2007-06-26T01:03:30+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/06/26/wood-framing-porn/
-permalink: /?p=303
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

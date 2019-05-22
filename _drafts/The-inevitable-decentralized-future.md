@@ -4,8 +4,8 @@ title: The inevitable decentralized future?
 date: 2012-08-14T22:08:03+00:00
 author: David Ascher
 layout: post
-guid: http://blog.ascher.ca/?p=729
-permalink: /?p=729
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

@@ -4,8 +4,8 @@ title: 'Bloglines &#038; Twisted'
 date: 2004-11-09T14:44:43+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/?p=46
-permalink: /?p=46
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

@@ -4,8 +4,8 @@ title: Sorry about the accidental comment closure
 date: 2007-09-11T09:31:25+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/09/11/sorry-about-the-accidental-comment-closure/
-permalink: /?p=319
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

@@ -4,8 +4,8 @@ title: Can federation be made glossy?
 date: 2012-01-07T00:10:21+00:00
 author: David Ascher
 layout: post
-guid: http://blog.ascher.ca/?p=696
-permalink: /?p=696
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:

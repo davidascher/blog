@@ -4,8 +4,8 @@ title: Thunderbird extensions to the rescue!
 date: 2005-10-25T14:29:46+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2005/10/25/thunderbird-extension-help/
-permalink: /?p=152
+
+
 tags:
   - thunderbird keyboard os x configurability
 restapi_import_id:

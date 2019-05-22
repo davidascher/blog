@@ -4,8 +4,8 @@ title: Adobe, Microsoft, Sun, Open Source, Yaawn.
 date: 2007-05-04T15:46:08+00:00
 author: David Ascher
 layout: post
-guid: http://ascher.ca/blog/2007/05/04/adobe-microsoft-sun-open-source-yaawn/
-permalink: /?p=271
+
+
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:
