@@ -5,7 +5,6 @@ date: 2007-11-01T15:45:51+00:00
 author: David Ascher
 layout: post
 guid: http://ascher.ca/blog/2007/11/01/marsedit-wordpress-planet-and-minor-updates/
-permalink: /?p=357
 restapi_import_id:
   - 5780561eab8f6
 original_post_id:
