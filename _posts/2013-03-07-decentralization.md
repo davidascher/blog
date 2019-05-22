@@ -1,0 +1,58 @@
+---
+id: 784
+title: 'Personal computing in a decentralized world: a hopeful direction'
+date: 2013-03-07T14:17:15+00:00
+author: David Ascher
+layout: post
+guid: http://blog.ascher.ca/?p=784
+permalink: /?p=784
+restapi_import_id:
+  - 5780561eab8f6
+original_post_id:
+  - "784"
+categories:
+  - Computing
+  - Mozilla
+  - Society
+---
+I&#8217;ve been having a really stimulating few weeks, which is making me feel oddly optimistic, so I figured I&#8217;d spread the cheer.
+
+It&#8217;s been somewhat quieter than usual in my little corner of Mozilla, as many of my colleagues were busy preparing for on our big announcements and demos at <a href="http://www.mozilla.org/mwc" target="_blank" rel="noopener noreferrer">Mobile World Congress</a>. This lull has allowed me to spend more time indulging in longer term thinking.
+
+In that thinking period, I&#8217;ve had the privilege and distinct pleasure of spending a few hours of quality videochat with none other than <a href="http://en.wikipedia.org/wiki/Ward_Cunningham" target="_blank" rel="noopener noreferrer">Ward Cunningham</a>, inventor extraordinaire.  We&#8217;ve been talking a lot about his new baby, which he calls <a href="http://wardcunningham.github.com/" target="_blank" rel="noopener noreferrer">Federated Wiki</a> (the name is misleading I think, but as with many new ideas, awkward names are better than long descriptions. The shortest analogy I can come up with is a space for personal writing that borrows the forking attitude from github, within a smalltalk-like conceptual model. &#8212; Confused yet?).  Regardless of the name, it&#8217;s both refreshing and stimulating to talk to someone like Ward about topics we both see as important and interesting, with a shared commitment to improve the status quo.  If you&#8217;re intellectually curious, willing to do some mental backflips and deal with fairly raw and unconventional ideas, I encourage you to watch <a href="http://wardcunningham.github.com/" target="_blank" rel="noopener noreferrer">the videos</a> and play around with federated wiki.  It&#8217;s a worthwhile exploration.
+
+One of the surprising ways in which that exploration is changing my brain is that I&#8217;m finally starting to care about hardware.  Until recently, I&#8217;ve been quite uninterested in hardware talk, both of the standard computer geek variety, as well as the internet-of-things variety. The former has felt no different to me than talking about fashion, and the latter always struck me as an industrial problem, not a human one.  It&#8217;s made sense to me that companies like GE were keen on the Internet of Things &#8212; i just didn&#8217;t really care, and the odds of billions of networked computers being a net win for the world seemed pretty slim &#8212; I&#8217;ll admit to a bit of an head-in-the-sand reaction there.
+
+What&#8217;s changed my thinking (and let me to acquire handfuls of <a href="http://raspberrypi.org/" target="_blank" rel="noopener noreferrer">raspberry pis</a> and <a href="http://www.pcduino.com/" target="_blank" rel="noopener noreferrer">pcDuinos</a> for the office) is a growing belief that the economics of hardware manufacturing, the maturation of the open source stack and standards, and the mainstream adoption of &#8220;the cloud&#8221; are, in concert, going to provide interesting opportunities for networked computation “by the people for the people”.[<img class="aligncenter" src="https://farm9.staticflickr.com/8014/7352520318_2b691ffc90.jpg" alt="" width="500" height="385" />](https://www.flickr.com/photos/adafruit/7352520318/)
+
+### The default path
+
+It&#8217;s fairly easy to see that the big players in computing (Apple, Google, et al) are deepening their stack and broadening their scope &#8212; from software or services to software and services to hardware to phones to tablets to TVs and other consumer devices, to cars, eyewear, physical networks, wireless carriers.  The path ahead for them is clear.  And I&#8217;d say that the consumer experiences that will follow promise to be stunning. But if nothing is done about it, it&#8217;s also clear that this will happen through market concentration.  That concentration of power, economic influence and wealth is particularly problematic because it also implies a concentration in modes of thought, in cultural outlooks, in possible futures.  <a href="http://blog.ascher.ca/2011/09/28/am-i-reading-these-trends-right/" target="_blank" rel="noopener noreferrer">As I&#8217;ve written before</a>, I think the world would be poorer if that happened.
+
+All conventional indicators (especially those concerned with things like &#8220;eyeballs&#8221;) are in that direction, of course &#8212; large amounts of money make it possible to make shiny attractive things, as well as to identify attention-grabbing things in a sea of uneven quality.  Popular culture naturally gravitates towards superstars, be they pop stars, or youtube clips. We seem to be wired as people, societies, and markets to head that way.
+
+### Another architecture, and the economics that can power it
+
+And yet I mentioned above that I was optimistic. That&#8217;s because while there are natural economic incentives for markets to create large companies, and for those large companies to concentrate attention on a few things which are safe, non-threatening, and profitable, the centralization forces are not the only ones at play, and not everything behaves in market-expected ways.   Clay Shirky has <a href="http://www.amazon.ca/gp/product/B004KAB2VW/ref=as_li_ss_tl?ie=UTF8&camp=15121&creative=390961&creativeASIN=B004KAB2VW&linkCode=as2&tag=davascsblo-20" target="_blank" rel="noopener noreferrer">written</a> and talked about this eloquently &#8212; sometimes we don&#8217;t need to do what economists tells us we should want to do.
+
+You can now buy <a href="http://raspberrypi.org/" target="_blank" rel="noopener noreferrer">$35 full-featured computers</a> which, within seconds of being plugged in, are fully capable internet nodes.  Within years at most the price will keep dropping and the capabilities will keep expanding. In addition, the open source software stack which powers them is the same which millions of web developers already know, and hopefully soon <a href="http://www.webmaker.org/" target="_blank" rel="noopener noreferrer">millions of amateurs</a> as well.  In other words, the means of production  are being commoditized and democratized, and the network is ready to serve as a coordination layer for these devices.  I am not predicting a utopian world of DIY hardware running bespoke software written by each user.  Instead, I want to point out that the entire value chain for using the internet to do new things (from hardware to services) is now ripe for new, good ideas, even coming from single brains. The substrate for deeply personal web experiences is here.  I should also acknowledge Allen Wirfs-Brock&#8217;s [recent writings](http://www.wirfs-brock.com/allen/posts/473) on the need for a bigger picture plan here as helping me to process the need to actively shape the architecture of the connected things around us.
+
+<p style="text-align:center;">
+  <a href="https://www.flickr.com/photos/97373666@N00/3264396897/"><img class="aligncenter" src="https://farm2.staticflickr.com/1191/3264396897_71af56840f.jpg" alt="" width="500" height="316" /></a>
+</p>
+
+Much has been written about the impact of Big Data for business, but internet-available Personal Data could be just as transformative for individuals and small groups. I’d wager that a Raspberry Pi and a cheap drive can store all of the words I will write and read in a lifetime, do meaningful computation on that corpus, and be available to all of my internet-connected devices. That _feels_ significant. When people routinely have that kind of agency over their stuff, and if their digital agents are well coordinated through a well-decentralized network, it&#8217;s easy to imagine just as futuristic and impactful but less commercially driven outcomes.
+
+When compelling experiences that work thanks to a decentralized architecture emerge, I&#8217;m confident that many kinds of business models will follow, including consumer devices, services, and others. Some of those devices will run FirefoxOS.  All will have the web stack built-in. As important, these things (or virtual things) will be cheap enough that cost and profitability won’t be the primary consideration. Instead, you’ll think about what you, your family, your neighborhood, your community need.  I could easily subsidize a fairly powerful computing service for all the children in my kids&#8217; school.  Larger foundations could subsidize the same on the scale of countries.  Combining <a href="http://www.ted.com/talks/clay_shirky_how_cognitive_surplus_will_change_the_world.html" target="_blank" rel="noopener noreferrer">Shirky&#8217;s cognitive surplus</a> and insanely cheap delivery systems means we can be freer from the stranglehold of short term economic thinking.  Bring in network-enabled funding models like Kickstarter, and we can keep baffling economists and conventional investors for a long while.
+
+### The Product Challenge
+
+The conundrum, then, is to find those compelling experiences which thrive on a decentralized architecture, and not just try to force decentralization on experiences which work well in a centralized model.  As a &#8220;product person&#8221;, I&#8217;ll admit that it&#8217;s not easy to  wean oneself from the dominant world view, which favors neatly bounded and hard, polished exteriors (metaphorical and otherwise), where control is critical to quality, and where complexity is managed through barriers.  That&#8217;s why I&#8217;m so impressed with Ward&#8217;s thinking &#8212; he&#8217;s been starting with a decentralized architecture, and seeking to identify and facilitate outcomes that are easier, more _natural_ in that world.  We need more such thinking.
+
+When I start thinking that way, my mind wanders towards deeply personal systems and deeply meaningful relationships.  Private diaries.  Family-centric stuff (family recipes, private calendars, snapshots, secrets).  It is worth noting that Ward has seen his ideas resonate in tightly knit communities who need deep connections over ideas and data, but who aren&#8217;t seeking mass audiences.  More generally, I suspect that this kind of architecture will naturally complement  offerings from giant players by gravitating towards <a href="http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs" target="_blank" rel="noopener noreferrer">parts of our psychology</a> which the giants aren&#8217;t built to serve.  Our need for quiet; play space; safe space.  Our need for a small number of deeply meaningful relationships. As the giants define what the &#8220;mall&#8221; style of interaction with the net is, I&#8217;m (finally) optimistic that we&#8217;ll see structures emerge that mirror many other social structures, from the self to the couple, family, school, workplace, church, interest club, support group, etc.
+
+This future feels more humane. That&#8217;s worth working on.<figure style="width: 500px" class="wp-caption alignnone">
+
+[<img src="https://farm4.staticflickr.com/3044/3011978673_21d39ffec5.jpg" alt="" width="500" height="361" />](https://www.flickr.com/photos/stuckincustoms/3011978673/)<figcaption class="wp-caption-text">What computing will she need, and who will build it?</figcaption></figure> 
+
+Thanks to <a href="http://www.twitter.com/freshelectrons" target="_blank" rel="noopener noreferrer">Havi Hoffman</a> for her editorial help.
