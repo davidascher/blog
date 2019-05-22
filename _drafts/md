@@ -1,0 +1,19 @@
+---
+id: 771
+date: 2013-02-08T17:37:22+00:00
+author: David Ascher
+layout: post
+guid: http://blog.ascher.ca/?p=771
+permalink: /?p=771
+restapi_import_id:
+  - 5780561eab8f6
+original_post_id:
+  - "771"
+categories:
+  - Uncategorized
+---
+I&#8217;m mostly unmoved by the superlative commentary that accompanies much of the talk about the &#8220;internet of things.&#8221; It could be that I&#8217;m just not that imaginative, or it could be that most things aren&#8217;t that interesting to me. I&#8217;m very happy that we&#8217;ll be able to have less idiotic thermostats, more efficient things. And I&#8217;m sure many industries will be hugely disrupted. What appeals to me most about computing isn&#8217;t just computation as a amplifier of human effort (although [this video](http://www.youtube.com/watch?v=C4IJXAVXgIo) about control theory is compelling) as an amplifier of societal goods (using even tiny notions of society, i.e. two people communicating or collaborating). Luckily, many of the economic drivers of the internet of things apply to the internet of connected people &#8212; and that train of though is fascinating to me.
+
+Computers are getting cheaper, and cheaper to run. Hosted computers are getting easier to manage. These are truisms which get fairly boring if one simply looks on their impact as reducing costs or increasing margin. The fun part is when the shifts in economics result in the emergence of brand new capabilities (e.g. embedded controllers to <a href="http://nest.com/" title="Nest Thermostats" target="_blank" rel="noopener noreferrer">apply more smarts to thermostats</a>) or which make old capabilities available to new markets, or fundable differently.
+
+In that last category, I find Raspberry Pi and Node.js PaaS&#8217;es to be worth digging into more. Raspberry Pi interests me because, unlike, for example, Arduino, it is a general purpose computer. And it costs so little (modulo the nagging display & input device topics)
