@@ -1,5 +1,4 @@
-url: http://127.0.0.1:8000
-name: wp
-description: Just another WordPress site
+name: david ascher's blog
+description: david ascher's personal blog
 
 theme: jekyll-theme-minimal
